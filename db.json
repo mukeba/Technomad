@@ -1,27 +1,12 @@
-[
-  {
-    "name": "Bitcoin",
-    "price_usd": "5175.81541869",
-    "percent_change_1h": "0.61"   
-  },
-  { 
-    "name": "Eos",
-    "price_usd": "410.81541869",
-    "percent_change_1h": "0.45"    
-  },
- {
-    "name": "Monero",
-    "price_usd": "1857.81541869",
-    "percent_change_1h": "0.63"
-  },
-  {
-    "name": "Cardano",
-    "price_usd": "6952.81541869",
-    "percent_change_1h": "0.35"
-  },
-{ 
-    "name": "Dash",
-    "price_usd": "2587.81541869",
-    "percent_change_1h": "0.25"
+{
+  "mkkryptlist": [
+    {
+      "name": "Bitcoin",
+      "price_usd": "5175.81541869",
+      "percent_change_1h": "0.61"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
