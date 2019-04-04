@@ -4,6 +4,11 @@
       "name": "Bitcoin",
       "price_usd": "5175.81541869",
       "percent_change_1h": "0.61"
+    },
+    {
+      "name": "Eos",
+      "price_usd": "5175.81541869",
+      "percent_change_1h": "0.61"
     }
   ],
   "profile": {
